@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0e9e9b0-3a73-4126-898e-a6f92c63e3a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/56b79f75-82f3-4497-84e1-00f246621b40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/56b79f75-82f3-4497-84e1-00f246621b40/storage_v2/_src_/schema/schema1.sH5Fcg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mytestphp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comments.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbh.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/jpg/jacht.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/linki.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reCaptcha.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1j70fmPRq6lzQravHZOjxICjZUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0e9e9b0-3a73-4126-898e-a6f92c63e3a0" name="Default Changelist" comment="" />
+      <created>1603139927385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603139927385</updated>
+      <workItem from="1603139928445" duration="15860000" />
+      <workItem from="1603185276095" duration="2192000" />
+      <workItem from="1603188238065" duration="24000" />
+      <workItem from="1603188351344" duration="1492000" />
+      <workItem from="1603314276149" duration="583000" />
+      <workItem from="1603315264840" duration="12535000" />
+      <workItem from="1603327899435" duration="80000" />
+      <workItem from="1603328074077" duration="19000" />
+      <workItem from="1603352078746" duration="325000" />
+      <workItem from="1603352418782" duration="20000" />
+      <workItem from="1603354953769" duration="66000" />
+      <workItem from="1603756976885" duration="1060000" />
+      <workItem from="1603834541480" duration="1270000" />
+      <workItem from="1603839587582" duration="3925000" />
+      <workItem from="1603844922370" duration="4076000" />
+      <workItem from="1604272005138" duration="3087000" />
+      <workItem from="1604325143719" duration="17156000" />
+      <workItem from="1604399359697" duration="3714000" />
+      <workItem from="1604850590135" duration="10039000" />
+      <workItem from="1604934007027" duration="1079000" />
+      <workItem from="1605472501095" duration="558000" />
+      <workItem from="1605473078929" duration="53000" />
+      <workItem from="1605473143311" duration="373000" />
+      <workItem from="1605473614733" duration="2048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1603140299835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1603140299835" />
+    <state x="333" y="85" key="#Inspections" timestamp="1604327537616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="333" y="85" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1604327537616" />
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1603320332994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1603320332994" />
+    <state x="390" y="7" key="#PHP" timestamp="1603140303056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603140303056" />
+    <state x="190" y="18" key="#SSH_Configurations" timestamp="1604274868424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="190" y="18" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1604274868424" />
+    <state x="202" y="6" width="879" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605474789684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="202" y="6" width="879" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605474789684" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1603839911519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603839911519" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1605472933906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1605472933906" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1605474871446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605474871446" />
+    <state x="408" y="69" key="Github.UntrackedFilesDialog" timestamp="1605474453383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605474453383" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1603757287579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1603757287579" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603150638097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603150638097" />
+    <state x="0" y="18" key="SettingsEditor" timestamp="1605475200098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605475200098" />
+    <state x="582" y="241" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1604275970023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="582" y="241" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1366.728@0.0.1366.728" timestamp="1604275970023" />
+    <state x="565" y="251" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1604275910916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="251" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1604275910916" />
+    <state x="479" y="184" width="408" height="351" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1604355010932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="184" width="408" height="351" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.728@0.0.1366.728" timestamp="1604355010932" />
+    <state x="631" y="204" width="532" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1604883572473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="631" y="204" width="532" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1604883572473" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605475669330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605475669330" />
+    <state x="459" y="136" key="refactoring.ChangeSignatureDialog" timestamp="1604360956358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="136" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1604360956358" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603147229731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603147229731" />
+  </component>
+</project>
